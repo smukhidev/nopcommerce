@@ -1,0 +1,14 @@
+D:\JUM\nopCommerce_3.90\Presentation\Nop.Web\Plugins\Payments.ShurjoPay\Views\Configure.cshtml
+D:\JUM\nopCommerce_3.90\Presentation\Nop.Web\Plugins\Payments.ShurjoPay\Views\PaymentInfo.cshtml
+D:\JUM\nopCommerce_3.90\Presentation\Nop.Web\Plugins\Payments.ShurjoPay\web.config
+D:\JUM\nopCommerce_3.90\Presentation\Nop.Web\Plugins\Payments.ShurjoPay\Views\Mypayment.cshtml
+D:\JUM\nopCommerce_3.90\Presentation\Nop.Web\Plugins\Payments.ShurjoPay\Description.txt
+D:\JUM\nopCommerce_3.90\Presentation\Nop.Web\Plugins\Payments.ShurjoPay\logo.jpg
+D:\JUM\nopCommerce_3.90\Presentation\Nop.Web\Plugins\Payments.ShurjoPay\Nop.Plugin.Payments.ShurjoPay.dll.config
+D:\JUM\nopCommerce_3.90\Presentation\Nop.Web\Plugins\Payments.ShurjoPay\Nop.Plugin.Payments.ShurjoPay.dll
+D:\JUM\nopCommerce_3.90\Presentation\Nop.Web\Plugins\Payments.ShurjoPay\Nop.Plugin.Payments.ShurjoPay.pdb
+D:\JUM\nopCommerce_3.90\Plugins\Nop.Plugin.Payments.ShurjoPay\obj\Debug\Nop.Plugin.Payments.ShurjoPay.csprojAssemblyReference.cache
+D:\JUM\nopCommerce_3.90\Plugins\Nop.Plugin.Payments.ShurjoPay\obj\Debug\Nop.Plugin.Payments.ShurjoPay.csproj.CoreCompileInputs.cache
+D:\JUM\nopCommerce_3.90\Plugins\Nop.Plugin.Payments.ShurjoPay\obj\Debug\Nop.Plugin.Payments.ShurjoPay.csproj.CopyComplete
+D:\JUM\nopCommerce_3.90\Plugins\Nop.Plugin.Payments.ShurjoPay\obj\Debug\Nop.Plugin.Payments.ShurjoPay.dll
+D:\JUM\nopCommerce_3.90\Plugins\Nop.Plugin.Payments.ShurjoPay\obj\Debug\Nop.Plugin.Payments.ShurjoPay.pdb

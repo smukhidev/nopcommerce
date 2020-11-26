@@ -1,0 +1,9 @@
+﻿Group: Payment methods
+FriendlyName: shurjoPay
+SystemName: Payments.ShurjoPay
+Version: 2.0.1
+SupportedVersions: 4.3
+Author: shurjoPay team
+DisplayOrder: 1
+FileName: Nop.Plugin.Payments.ShurjoPay.dll
+Description: This plugin allows paying with shurjoPay

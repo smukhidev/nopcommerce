@@ -1,0 +1,14 @@
+D:\JUM\nopCommerce_3.0_Source\Presentation\Nop.Web\Plugins\Payments.eWayHosted\Views\Configure.cshtml
+D:\JUM\nopCommerce_3.0_Source\Presentation\Nop.Web\Plugins\Payments.eWayHosted\Views\PaymentInfo.cshtml
+D:\JUM\nopCommerce_3.0_Source\Presentation\Nop.Web\Plugins\Payments.eWayHosted\web.config
+D:\JUM\nopCommerce_3.0_Source\Presentation\Nop.Web\Plugins\Payments.eWayHosted\Views\Mypayment.cshtml
+D:\JUM\nopCommerce_3.0_Source\Presentation\Nop.Web\Plugins\Payments.eWayHosted\Description.txt
+D:\JUM\nopCommerce_3.0_Source\Presentation\Nop.Web\Plugins\Payments.eWayHosted\logo.jpg
+D:\JUM\nopCommerce_3.0_Source\Presentation\Nop.Web\Plugins\Payments.eWayHosted\Nop.Plugin.Payments.eWayHosted.dll.config
+D:\JUM\nopCommerce_3.0_Source\Presentation\Nop.Web\Plugins\Payments.eWayHosted\Nop.Plugin.Payments.eWayHosted.dll
+D:\JUM\nopCommerce_3.0_Source\Presentation\Nop.Web\Plugins\Payments.eWayHosted\Nop.Plugin.Payments.eWayHosted.pdb
+D:\JUM\nopCommerce_3.0_Source\Plugins\Nop.Plugin.Payments.eWayHosted\obj\Debug\Nop.Plugin.Payments.eWayHosted.csprojAssemblyReference.cache
+D:\JUM\nopCommerce_3.0_Source\Plugins\Nop.Plugin.Payments.eWayHosted\obj\Debug\Nop.Plugin.Payments.eWayHosted.csproj.CoreCompileInputs.cache
+D:\JUM\nopCommerce_3.0_Source\Plugins\Nop.Plugin.Payments.eWayHosted\obj\Debug\Nop.Plugin.Payments.eWayHosted.csproj.CopyComplete
+D:\JUM\nopCommerce_3.0_Source\Plugins\Nop.Plugin.Payments.eWayHosted\obj\Debug\Nop.Plugin.Payments.eWayHosted.dll
+D:\JUM\nopCommerce_3.0_Source\Plugins\Nop.Plugin.Payments.eWayHosted\obj\Debug\Nop.Plugin.Payments.eWayHosted.pdb
